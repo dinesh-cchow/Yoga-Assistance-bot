@@ -19,7 +19,7 @@ st.title("🧘 My Yoga Network Assistant")
 
 # API Key and paths
 DB_FAISS_PATH = 'vectorstores/db_faiss'
-PERPLEXITY_API_KEY = os.getenv("PERPLEXITY_API_KEY", "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")
+PERPLEXITY_API_KEY = os.getenv("PERPLEXITY_API_KEY", "your-api-key")
 
 custom_prompt_template = """You are a sophisticated and dedicated yoga assistance bot, programmed to provide accurate, respectful, and insightful responses. Your primary function is to offer information and insights related to yoga, focusing on its benefits in daily life and its impact on mental and physical health.
 
