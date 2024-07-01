@@ -1,0 +1,28 @@
+body {
+    background-color: #F0F0F0;
+    font-family: Arial, sans-serif;
+    color: #333333;
+}
+
+.chat-header {
+    background-color: #4CAF50;
+    color: #FFFFFF;
+    padding: 10px;
+    font-size: 24px;
+    text-align: center;
+}
+
+.chat-container {
+    padding: 20px;
+    background-color: #FFFFFF;
+    border-radius: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.input-box {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #CCCCCC;
+    border-radius: 5px;
+    margin-top: 10px;
+}

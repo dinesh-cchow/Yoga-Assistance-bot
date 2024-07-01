@@ -1,0 +1,12 @@
+{
+  "title": "Yoga Assistant Bot",
+  "description": "Ask anything about Yoga and its benefits.",
+  "theme": {
+    "primaryColor": "#4CAF50",
+    "secondaryColor": "#8BC34A",
+    "backgroundColor": "#F0F0F0",
+    "textColor": "#333333",
+    "fontFamily": "Arial, sans-serif",
+    "fontSize": "16px"
+  }
+}

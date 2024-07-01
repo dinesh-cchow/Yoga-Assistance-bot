@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/dinesh/Documents/Projects/Yoga-assistance%20bot/mlruns/0/1a0d35bd927f450899d48cd3eaf851db/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1a0d35bd927f450899d48cd3eaf851db
+run_name: fearless-fish-193
+run_uuid: 1a0d35bd927f450899d48cd3eaf851db
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718837756915
+status: 1
+tags: []
+user_id: dinesh

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/dinesh/Documents/Projects/Yoga-assistance%20bot/mlruns/0/f2487678249641b1a67c504be5be97c3/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f2487678249641b1a67c504be5be97c3
+run_name: receptive-cod-444
+run_uuid: f2487678249641b1a67c504be5be97c3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718838914817
+status: 1
+tags: []
+user_id: dinesh

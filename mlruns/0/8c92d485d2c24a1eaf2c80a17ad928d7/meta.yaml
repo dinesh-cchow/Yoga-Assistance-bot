@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/dinesh/Documents/Projects/Yoga-assistance%20bot/mlruns/0/8c92d485d2c24a1eaf2c80a17ad928d7/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8c92d485d2c24a1eaf2c80a17ad928d7
+run_name: upbeat-finch-656
+run_uuid: 8c92d485d2c24a1eaf2c80a17ad928d7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718839044755
+status: 1
+tags: []
+user_id: dinesh

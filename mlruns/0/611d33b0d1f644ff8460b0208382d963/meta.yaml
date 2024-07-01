@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/dinesh/Documents/Projects/Yoga-assistance%20bot/mlruns/0/611d33b0d1f644ff8460b0208382d963/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 611d33b0d1f644ff8460b0208382d963
+run_name: silent-crab-590
+run_uuid: 611d33b0d1f644ff8460b0208382d963
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718839578041
+status: 1
+tags: []
+user_id: dinesh

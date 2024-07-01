@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/dinesh/Documents/Projects/Yoga-assistance%20bot/mlruns/0/abb5dbe5ce3f4a72983400d906fca930/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: abb5dbe5ce3f4a72983400d906fca930
+run_name: sedate-wren-231
+run_uuid: abb5dbe5ce3f4a72983400d906fca930
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718839189406
+status: 1
+tags: []
+user_id: dinesh

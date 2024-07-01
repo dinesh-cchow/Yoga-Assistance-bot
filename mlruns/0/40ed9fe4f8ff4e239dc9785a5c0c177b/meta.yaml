@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/dinesh/Documents/Projects/Yoga-assistance%20bot/mlruns/0/40ed9fe4f8ff4e239dc9785a5c0c177b/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 40ed9fe4f8ff4e239dc9785a5c0c177b
+run_name: flawless-jay-357
+run_uuid: 40ed9fe4f8ff4e239dc9785a5c0c177b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718837408911
+status: 1
+tags: []
+user_id: dinesh

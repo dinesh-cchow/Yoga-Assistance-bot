@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/dinesh/Documents/Projects/Yoga-assistance%20bot/mlruns/0/4623f7ebcad048b7ac1a507f02bc58fb/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4623f7ebcad048b7ac1a507f02bc58fb
+run_name: fun-duck-486
+run_uuid: 4623f7ebcad048b7ac1a507f02bc58fb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718838334592
+status: 1
+tags: []
+user_id: dinesh

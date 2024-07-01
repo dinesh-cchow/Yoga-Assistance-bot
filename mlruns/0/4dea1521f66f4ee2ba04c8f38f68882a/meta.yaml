@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/dinesh/Documents/Projects/Yoga-assistance%20bot/mlruns/0/4dea1521f66f4ee2ba04c8f38f68882a/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4dea1521f66f4ee2ba04c8f38f68882a
+run_name: respected-roo-534
+run_uuid: 4dea1521f66f4ee2ba04c8f38f68882a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718838413062
+status: 1
+tags: []
+user_id: dinesh

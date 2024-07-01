@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/dinesh/Documents/Projects/Yoga-assistance%20bot/mlruns/0/588828005c344e3fb71529bdf7df83ea/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 588828005c344e3fb71529bdf7df83ea
+run_name: able-goose-802
+run_uuid: 588828005c344e3fb71529bdf7df83ea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718839928237
+status: 1
+tags: []
+user_id: dinesh

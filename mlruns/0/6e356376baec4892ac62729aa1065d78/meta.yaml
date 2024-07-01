@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/dinesh/Documents/Projects/Yoga-assistance%20bot/mlruns/0/6e356376baec4892ac62729aa1065d78/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6e356376baec4892ac62729aa1065d78
+run_name: sassy-grouse-355
+run_uuid: 6e356376baec4892ac62729aa1065d78
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718838802600
+status: 1
+tags: []
+user_id: dinesh

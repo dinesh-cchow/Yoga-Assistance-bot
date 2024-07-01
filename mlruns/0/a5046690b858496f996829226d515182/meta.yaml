@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/dinesh/Documents/Projects/Yoga-assistance%20bot/mlruns/0/a5046690b858496f996829226d515182/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a5046690b858496f996829226d515182
+run_name: flawless-deer-152
+run_uuid: a5046690b858496f996829226d515182
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718837914543
+status: 1
+tags: []
+user_id: dinesh
